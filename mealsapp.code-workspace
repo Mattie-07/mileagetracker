@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../mealsapp"
+		},
+		{
+			"path": "../Apex"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Apex"
+	}
+}
