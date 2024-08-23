@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../mealapp/mealapp"
+		},
+		{
+			"path": "../../../Udemy/JavacriptApiStuff"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "JavacriptApiStuff"
+	}
+}
